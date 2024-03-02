@@ -29,7 +29,7 @@ Web page project with the following technologies: Tailwind CSS and Next.js.
 
 <h2 align="center"> 💻 Project</h2>
 <div align="center">
- <img src="./src/app/pagweb.png" width="400px" alt="Home Image"/>
+ <img src="./src/app/2.png" width="400px" alt="Home Image"/>
 </div>
 
 -------
